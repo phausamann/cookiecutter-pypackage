@@ -1,0 +1,11 @@
+name: cc-pypkg
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - pip
+  - cookiecutter
+  - pyyaml
+  - pytest
+  - pytest-cookies
